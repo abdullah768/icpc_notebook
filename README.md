@@ -3,6 +3,8 @@ Team notebook of Trie_NP_Hard
 
 It contains most of the baisc/intermediate standard algorithms. Exact details can be found on the index page(2nd page).
 
+Most of the code has been taken from geeksforgeeks.org
+
 Times new roman, size 12 has been used as standard font to respect the rules at kolkata/ amritapuri.
 
 The page ordering is as follows:
